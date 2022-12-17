@@ -33,4 +33,6 @@ More information on MicroProfile can be found [here](https://microprofile.io/)
 
 
 [Microprofile Java Microservices on WildFly](https://piotrminkowski.com/2020/12/14/microprofile-java-microservices-on-wildfly/)
+    
     mvn package wildfly-jar:run
+
